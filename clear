@@ -1,0 +1,29 @@
+[33mcommit 6924b6b0eeafb5c65e157d20644093525a7275b0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Tran Dinh Cuong <kienthucnhatban.com@gmail.com>
+Date:   Wed Oct 5 16:23:15 2022 +0900
+
+    Upload React app and display Home page
+
+[33mcommit 6e1f398d87fa7949ef0ac863f9679275c0478231[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Tran Dinh Cuong <kienthucnhatban.com@gmail.com>
+Date:   Tue Oct 4 14:56:25 2022 +0900
+
+    Add test read data
+
+[33mcommit bc231015f233617c534f8e7340bb4cd6d1f9382b[m
+Author: Tran Dinh Cuong <kienthucnhatban.com@gmail.com>
+Date:   Tue Oct 4 12:59:45 2022 +0900
+
+    Display JSON data
+
+[33mcommit c6e997be49eb4e98a8202983c6bf08ffa51d9c76[m
+Author: Tran Dinh Cuong <kienthucnhatban.com@gmail.com>
+Date:   Tue Oct 4 11:12:51 2022 +0900
+
+    Add model folder
+
+[33mcommit 749791236bc6f42c7bab46a9ce407fd98074b1e9[m
+Author: Tran Dinh Cuong <kienthucnhatban.com@gmail.com>
+Date:   Tue Oct 4 09:14:04 2022 +0900
+
+    Initial project version
