@@ -57,24 +57,24 @@ class Employees extends Component {
     return (
       <div>
       <AppNavbar/>
-      <Container fluid>
-    <div className="float-right">
-      <Button color="success" tag={Link} to="/posts/new">Add Employee</Button>
-    </div>
-    <h3>Employee List</h3>
-    <Table className="mt-4">
-      <thead>
-      <tr>
-      <th width="20%">Name</th>
-      <th width="20%">age</th>
-      <th width="20%">adress</th>
-      <th width="10%">Actions</th>
-      </tr>
-      </thead>
-      <tbody>
-      {postList}
-      </tbody>
-      </Table>
+      <Container fluid >
+        <div className="float-right pt-1">
+          <Button color="success" tag={Link} to="/employees/add">Add Employee</Button>
+        </div>
+        <h3>Employee List</h3>
+        <Table className="mt-4">
+          <thead>
+            <tr>
+            <th width="20%">Name</th>
+            <th width="20%">age</th>
+            <th width="20%">adress</th>
+            <th width="10%">Actions</th>
+            </tr>
+          </thead>
+          <tbody>
+            {postList}
+          </tbody>
+        </Table>
       </Container>
       </div>
   );
